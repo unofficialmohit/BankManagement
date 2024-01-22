@@ -121,7 +121,7 @@ dataBase.push({
     balance:0,
     emiCost:[0,0,0],
     emiCount:[0,0,0],
-    loanAlreadyGiven:false
+    loanAlreadyGiven:[false,false,false]
 
 });
 console.log("\nNEW USER CREATED SUCCESSFULLY\n");
