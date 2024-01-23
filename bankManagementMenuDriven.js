@@ -109,7 +109,6 @@ function createNewUser() {
     }
   }
   accountNumber += 100;
-  1;
   dataBase.push({
     acNumber: accountNumber,
     name: customerName,
